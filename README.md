@@ -10,7 +10,9 @@ To run as a client listening on port 4322
 
 Each instance provides the following commands:
 CREATOR                             : Display name, name and Email
+
                                       of the creator of this program.
+                                      
 MYIP                                : Display IP Address of this process.
 MYPORT                              : Display PORT number on which this process
                                       is listening for incoming connections.
