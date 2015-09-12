@@ -1,7 +1,7 @@
 # remote-file-sharing-system
 A simple application for file sharing among remote hosts (as part of an assignment).
 
-Use `make`. Usage:
+Use `make`.
 To run as a server listening on port 4322 
 `./assignment1 s 4322 `
 To run as a client listening on port 4322 
