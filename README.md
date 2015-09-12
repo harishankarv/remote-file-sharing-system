@@ -1,18 +1,17 @@
 # remote-file-sharing-system
-A simple application for file sharing among remote hosts (as part of an assignment)
+A simple application for file sharing among remote hosts (as part of an assignment).
 
-Usage:
+Use `make`. Usage:
 To run as a server listening on port 4322 
-./assignment1 s 4322 
+`./assignment1 s 4322 `
 To run as a client listening on port 4322 
-./assignment1 c 4322 
+`./assignment1 c 4322 `
 
 
 Each instance provides the following commands:
 ```
 CREATOR                             : Display name, name and Email
                                       of the creator of this program.
-                                      
 MYIP                                : Display IP Address of this process.
 MYPORT                              : Display PORT number on which this process
                                       is listening for incoming connections.
