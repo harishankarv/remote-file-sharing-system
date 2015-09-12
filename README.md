@@ -9,8 +9,8 @@ To run as a client listening on port 4322
 
 
 Each instance provides the following commands:
+```
 CREATOR                             : Display name, name and Email
-
                                       of the creator of this program.
                                       
 MYIP                                : Display IP Address of this process.
@@ -33,3 +33,4 @@ TERMINATE <connection_id>           : Terminate the connection specified by
 EXIT                                : Close all connections and terminate the
                                       process.
 
+```
